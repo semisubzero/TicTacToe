@@ -76,16 +76,6 @@ while running:
     screen.blit(background, (0, 0))
     update_board()
 
-    # Update board state
-    #for column in boardState:
-     #   for row in column:
-
-
-
-
-
-    # RENDER YOUR GAME HERE
-
     # flip() the display to put your work on screen
     pygame.display.flip()
 
